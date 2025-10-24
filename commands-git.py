@@ -8,3 +8,5 @@
 
 # pour cloner = git cloner https://github.com/Matieu-MO12/git-begins-.git
 # ensuite git add pour ajouter un fichier 
+
+# je suis sur github et je modifi mon dossier.
